@@ -1,0 +1,26 @@
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.task.completed span {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.task button {
+  margin-left: 5px;
+}
+
+.btn-Excluir {
+  background-color: Red;
+}
+
+.btn-Excluir:hover {
+  background-color: #ff6347;
+}
