@@ -1,7 +1,6 @@
 # gerador-listas ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-Reposotório para projeto pessoal relacionado a despesas mensais.
-Objetivo é usar uma necessidade real para aprender e testar conhecimentos
+Reposotório para projeto pessoal com objetivo é usar uma necessidade real para aprender e testar conhecimentos
 
 ## Sobre o projeto
 
